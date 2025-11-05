@@ -1,0 +1,2 @@
+2025-11-05 11:15:22|afarik|REGISTER|New user registered
+2025-11-05 11:15:29|Afarik|LOGIN|User logged in successfully
