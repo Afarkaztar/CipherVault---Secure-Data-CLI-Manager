@@ -699,27 +699,6 @@ Found a bug? Please open an issue with:
 
 ---
 
-## 📞 Support
-
-Need help? Have questions?
-
-- 📖 Read the [Usage Guide](#-usage)
-- 🐛 Report bugs via [GitHub Issues](https://github.com/yourusername/CipherVault-Plus/issues)
-- 💬 Discussion via [GitHub Discussions](https://github.com/yourusername/CipherVault-Plus/discussions)
-- 📧 Email: afarik.rakas@gmail.com
-
----
-
-## ⭐ Show Your Support
-
-If you found this project helpful, please consider:
-- ⭐ Starring the repository
-- 🍴 Forking for your own modifications
-- 📢 Sharing with others
-- 🐛 Reporting bugs
-- 💡 Suggesting improvements
-
----
 
 <div align="center">
 
@@ -735,3 +714,4 @@ If you found this project helpful, please consider:
 
 
 </div>
+
