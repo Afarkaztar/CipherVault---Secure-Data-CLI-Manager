@@ -643,51 +643,17 @@ Found a bug? Please open an issue with:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see below for details:
-```
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 **Project**: Final Project - Dasar Pemrograman  
-**Institution**: [Your University/Institution]  
+**Institution**: Institut Pertanian Bogor
 **Date**: October 2025
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Thanks to [Your Professor/Instructor Name] for guidance
+- Thanks to Bu Faldiena for guidance
 - Inspired by modern password managers (LastPass, 1Password, Bitwarden)
 - Caesar Cipher: Classical cryptography algorithm
 - Python community for excellent documentation
@@ -740,7 +706,7 @@ Need help? Have questions?
 - 📖 Read the [Usage Guide](#-usage)
 - 🐛 Report bugs via [GitHub Issues](https://github.com/yourusername/CipherVault-Plus/issues)
 - 💬 Discussion via [GitHub Discussions](https://github.com/yourusername/CipherVault-Plus/discussions)
-- 📧 Email: your.email@example.com
+- 📧 Email: afarik.rakas@gmail.com
 
 ---
 
@@ -757,7 +723,7 @@ If you found this project helpful, please consider:
 
 <div align="center">
 
-**Made with ❤️ and ☕ by [Your Name]**
+**Made with ❤️ and ☕ by Afarik Rakas Berdi**
 
 *CipherVault+ - Your Passwords, Your Control, Your Privacy*
 
@@ -766,5 +732,6 @@ If you found this project helpful, please consider:
 ![Offline](https://img.shields.io/badge/100%25-Offline-blue?style=for-the-badge)
 
 [⬆ Back to Top](#-ciphervault---cli-secured-data-manager)
+
 
 </div>
